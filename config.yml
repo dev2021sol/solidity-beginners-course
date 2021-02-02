@@ -3,6 +3,7 @@ description: 'Solidity beginners '
 template:
   repo: solidity-beginners-template
   name: solidity-beginners
+  description: 'Auto-created by GitHub '
 before:
   - type: createIssue
     title: Welcome!
